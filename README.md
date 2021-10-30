@@ -1,3 +1,3 @@
-| Problem | Id | Language
+| Problem | Language
 |--|--|
-|Hello World!|6355447|[Python](https://github.com/smmnaghibi/kattis/blob/main/Hello-World.py)
+| [Hello World!](https://open.kattis.com/problems/hello) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Hello-World.py) |
