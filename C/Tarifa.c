@@ -1,18 +1,17 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 
 int main(){
-    int x, n, p, res;
-    cin >> x;
+   int x, n, p, res;
+    scanf("%d", &x);
     res = x;
     if (1 <= x && x <= 100){
-        cin >> n;
+        scanf("%d", &n);
         if (1 <= n && n <= 100){
             for (int i = 0 ; i < n ; i++){
-                cin >> p;
+                scanf("%d", &p);
                 res = res + (x - p);
             }
         }
     }
-    cout << res;
+    printf("%d",res);
 }
