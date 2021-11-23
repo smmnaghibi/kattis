@@ -1,5 +1,5 @@
-# Kattis Problem's answer
-Hi, These are the answers for **Kattis problem** with **python**, **C**, **Cpp**. Use it in the **right way**😉.
+# Kattis Problems' answers
+Hi, These are the answers for **Kattis problem** with **python**, **C**, **Cpp**. Use it in a **right way**😉.
 
 Other languages and problems will be added
 #
@@ -18,3 +18,4 @@ Other languages and problems will be added
 | [Heart Rate](https://open.kattis.com/problems/heartrate) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/heartrate.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/heartrate.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/heartrate.cpp) |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/fizzbuzz.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/fizzbuzz.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/fizzbuzz.cpp) |
 | [Filip](https://open.kattis.com/problems/filip) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/filip.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/filip.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/filip.cpp) |
+| [Faktor](https://open.kattis.com/problems/faktor) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/faktor.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/faktor.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/faktor.cpp) |
