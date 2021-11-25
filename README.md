@@ -20,3 +20,7 @@ Other languages and problems will be added
 | [Filip](https://open.kattis.com/problems/filip) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/filip.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/filip.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/filip.cpp) |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/faktor.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/faktor.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/faktor.cpp) |
 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/dicecup.py) [C](https://github.com/smmnaghibi/kattis/blob/main/C/dicecup.c) [C++](https://github.com/smmnaghibi/kattis/blob/main/Cpp/dicecup.cpp) |
+| [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/electricaloutlets.py) |
+| [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/carrots.py) |
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/everywhere.py) |
+| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/hissingmicrophone.py) |
