@@ -24,3 +24,4 @@ Other languages and problems will be added
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/carrots.py) |
 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/everywhere.py) |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/hissingmicrophone.py) |
+| [Greetings!](https://open.kattis.com/problems/greetings2) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/greetings2.py) |
