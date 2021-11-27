@@ -27,7 +27,7 @@ Other languages and problems will be added
 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/greetings2.py) |
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/abc.py) |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/apaxianparent.py) |
-| [Autori](https://open.kattis.com/probleHonour Thy (Apaxian) Parentms/autori) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/autori.py) |
+| [Autori](https://open.kattis.com/problems/autori) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/autori.py) |
 | [Batter Up](https://open.kattis.com/problems/batterAutoriup) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/batterup.py) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/bijele.py) |
 | [Buka](https://open.kattis.com/problems/buka) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/buka.py) |
