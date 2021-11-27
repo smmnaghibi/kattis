@@ -28,11 +28,11 @@ Other languages and problems will be added
 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/abc.py) |
 | [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/apaxianparent.py) |
 | [Autori](https://open.kattis.com/problems/autori) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/autori.py) |
-| [Batter Up](https://open.kattis.com/problems/batterAutoriup) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/batterup.py) |
+| [Batter Up](https://open.kattis.com/problems/batterup) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/batterup.py) |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/bijele.py) |
 | [Buka](https://open.kattis.com/problems/buka) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/buka.py) |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/cetvrta.py) |
-| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/chanukal.py) |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/chanukah.py) |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/cold.py) |
 | [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/encodedmessage.py) |
 | [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd) | [Python](https://github.com/smmnaghibi/kattis/blob/main/Python/helpaphd.py) |
